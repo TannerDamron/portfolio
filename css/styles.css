@@ -1,37 +1,79 @@
+body {
+  font-family: sans-serif;
+  background-color: #CFF2F9;
+}
+
 #tan {
-  border-radius: 25%;
+  border-radius: 40%;
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border: 5px solid #00D2FB;
+  border-style: double;
 }
 
 h1 {
   text-align: center;
+  font-size: 50px;
+  font-family: Courier;
+  text-shadow: 2px 2px #00D2FB;
 }
 
 .aboutme {
   text-align: center;
   list-style-position: inside;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5%;
+  background-color: #ADF3FF;
+
 }
 
 .why {
+  height: 350px;
   text-align: center;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 5%;
+  background-color: #ADF3FF;
 }
 
 .projects {
   text-align: center;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 40%;
+  background-color: #ADF3FF;
+}
+
+.projects ul {
+  list-style: none;
 }
 
 .education {
   text-align: center;
   list-style-position: inside;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 40%;
+  background-color: #ADF3FF;
 }
 
 .experience {
   text-align: center;
   list-style-position: inside;
+  border: 2px solid black;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+  border-radius: 40%;
+  background-color: #ADF3FF;
 }
 
- #nodots {
-   list-style: none;
- }
+a {
+  color: #7A86FF;
+  text-decoration: underline;
+}
