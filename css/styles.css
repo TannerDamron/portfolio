@@ -27,7 +27,6 @@ h1 {
   padding: 10px 10px 10px 10px;
   border-radius: 5%;
   background-color: #ADF3FF;
-
 }
 
 .why {
@@ -76,4 +75,10 @@ h1 {
 a {
   color: #7A86FF;
   text-decoration: underline;
+  cursor: crosshair;
+}
+
+a:hover {
+  color: #E6ADFF;
+  font-size: 15px;
 }
