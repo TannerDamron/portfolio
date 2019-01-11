@@ -14,4 +14,8 @@ This a personal portfolio showcasing everything I have learned at Epicodus Seatt
 * Add it to your desktop using "git clone "(repository link.)""
 * Open in Atom to see all HTML and CSS used
 
+### GH-Pages Link
+
+https://tannerdamron.github.io/portfolio/
+
 Copyright (c) 2019 Tanner Damron
