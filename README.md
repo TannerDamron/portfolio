@@ -14,6 +14,12 @@ This a personal portfolio showcasing everything I have learned at Epicodus Seatt
 * Add it to your desktop using "git clone "(repository link.)""
 * Open in Atom to see all HTML and CSS used
 
+### Languages/Frameworks Used
+
+* HTML
+* CSS
+* Bootstrap
+
 ### GH-Pages Link
 
 https://tannerdamron.github.io/portfolio/
